@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sp0ky99 aka Daniel Kuntze
-- 👀 I’m interested in Farming and Programming
+- 👀 I’m interested in Programming and Cars
 - 🌱 I’m currently learning Delphi and C#
-- 📫 How to reach me: E-Mail: Danielkuntze@yahoo.de
+- 📫 How to reach me: E-Mail: Daniel.Kuntze@proton.me
 
 <!---
 Sp0ky99/Sp0ky99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
