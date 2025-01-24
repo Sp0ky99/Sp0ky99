@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sp0ky99 aka Daniel Kuntze
 - 👀 I’m interested in Programming and Cars
-- 🌱 I’m currently learning Delphi and C#
+- 🌱 I’m currently working with Delphi and C#
 - 📫 How to reach me: E-Mail: Daniel.Kuntze@proton.me
 
 <!---
