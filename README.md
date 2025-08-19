@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Sp0ky99 aka Daniel Kuntze
-- 👀 I’m interested in Programming and Cars
-- 🌱 I’m currently working with Delphi and C#
-- 📫 How to reach me: E-Mail: Daniel.Kuntze@proton.me
+# 👋 Hi, I’m @Sp0ky99 aka Daniel Kuntze
 
+- 💼 Manager Software Development  
+- 👨‍💻 Working with **Delphi**, **C#**, **JavaScript** and **PHP**  
+- 🏢 Passionate about developing **Line of Business Software** and creating **individual side projects**  
+- 🚗 Enthusiast for **Cars & Motorsports**  
+- 🌏 Fascinated by **Japan** and its culture  
+- 📫 Reach me at: **Daniel.Kuntze@proton.me**  
+
+---
 <!---
 Sp0ky99/Sp0ky99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
